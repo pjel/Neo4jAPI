@@ -1,6 +1,6 @@
 package edu.comillas.mibd18;
 
-import org.neo4j.driver.v1.*;
+import org.neo4j.driver.*;
 
 import java.util.ArrayList;
 import java.util.List;

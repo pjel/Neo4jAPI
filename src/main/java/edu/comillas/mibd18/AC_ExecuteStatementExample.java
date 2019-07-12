@@ -1,8 +1,8 @@
 package edu.comillas.mibd18;
 
-import org.neo4j.driver.v1.*;
+import org.neo4j.driver.*;
 
-import static org.neo4j.driver.v1.Values.parameters;
+import static org.neo4j.driver.Values.parameters;
 
 public class AC_ExecuteStatementExample {
     public static void main(String[] args) {
